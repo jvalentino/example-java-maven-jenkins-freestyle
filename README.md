@@ -53,3 +53,10 @@ We then create a username/password credential named `github-publish-maven` that 
 
 # (5) Tests, Jacoco, and PMD
 
+![06](./wiki/15.png)
+
+![06](./wiki/16.png)
+
+![06](./wiki/17.png)
+
+![06](./wiki/14.png)
